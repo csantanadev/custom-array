@@ -46,7 +46,7 @@ class CustomArray {
     reduce(callbackFunction, valorInitial) {
 
         // se eu nao mandar um valor inicial, o acumulador é o primeiro elemento e o valor é o segundo elemento
-        // se eu mandar um valor inicial, o acumulador é o valor inicial é o valor é o primeiro elemento do array
+        // se eu mandar um valor inicial, o acumulador é o valor inicial, e o valor é o primeiro elemento do array
         let acum = 0
         let vl = valorInitial ? valorInitial : this.array[0]
 
