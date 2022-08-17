@@ -1,4 +1,4 @@
-# Implementando funções do js de maneira customizada.
+# Implementando funções de array do js de maneira customizada.
 
 ![image](https://user-images.githubusercontent.com/20893840/179611119-ac3550a7-682e-4ebb-9a8e-df3c9b757f47.png)
 
