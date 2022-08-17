@@ -3,7 +3,7 @@ class CustomArray {
     constructor(array) {
 
         if (!array) {
-            throw new Error('Array requiried !')
+            throw new Error('Array required !')
         }
 
         if (typeof array !== 'object') {
